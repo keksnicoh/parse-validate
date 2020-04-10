@@ -44,8 +44,7 @@ to run tests
 
 ```
 stack test
-
-``
+```
 
 ## Examples
 
